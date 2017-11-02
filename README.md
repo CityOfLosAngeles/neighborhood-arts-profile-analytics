@@ -22,9 +22,10 @@ Cal State University Dominguez Hills
 
 ## City Team
 
-Wendy Hsu
+W.F. Umi Hsu
 
-Hunter Owens
+
+Hunter Owens
 
 ## Goals
 
