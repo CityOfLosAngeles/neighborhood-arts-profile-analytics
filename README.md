@@ -24,8 +24,9 @@ Cal State University Dominguez Hills
 
 W.F. Umi Hsu
 
-
 Hunter Owens
+
+Izzy Mitchell
 
 ## Goals
 
