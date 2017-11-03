@@ -1,0 +1,58 @@
+Club_Name, Store_Name, Time, Address, Phone
+venue food,Cheese Store of Silverlake,Mon -Sun: 10am -6pm,3926 Sunset Silver Lake,(323) 644-7511
+venue food,Locali & The Badasserie,Mon -Fri: 8am -10pm,5825 Franklin Hollywood,(323) 466 - 1360
+venue food,Amara Kitchen,Mon-Sun: 8am-6pm,519 N Ave 64 Highland Park,(323) 255-2220
+venue food,Kismet,Friday - Sun: 10 am -11 pm ,4648 Hollywood Los Feliz,
+venue food,Elysian,Wed-Sat: 6:30pm-10:30pmFri & Sat: Happy Hour at 5pm,2806 Clearwater Frogtown,(323) 522-6625
+venue food,Burgerlords,Sun - Thurs: 11am - 9pmFri & Sat: 11am -10pm,943 N Broadway Chinatown,
+venue food,Dune,Mon-Thurs: 11am - 8pmFri & Sat: 11am-10pm,3143 Glendale Atwater Village,(323) 486-7073
+venue food,Erin McKenna's Bakery,Mon - Thurs 9am - 9pmFri & Sat 9am - 10pmSun 9am - 8pm,236 N Larchmont Larchmont Village,323-463-2023
+venue food,Delicious Pizza,Mon - Sun 7am - 11pm,5419 W Adams West Adams,323-424-3014
+venue food,Madcapra,Sun - Wed 10am - 5pmThurs - Sat 10am - 9pm,317 S Broadway Downtown,
+venue food,Prufrock Pizzeria,Mon - Fri 11am - 1amSat & Sun 10am - 1am,446 S Main Downtown,323-284-5661
+venue food,Scoops Chinatown,Tue - Sat 12pm - 10pm,727 N Broadway Chinatown,323-739-8675
+venue food,Thank You For Coming,Sat & Sun 11am - 3pm,3416 Glendale Atwater Village,323-648-2666
+venue food,Donut Friend,Tue - Thurs 7am - 10pmFri - Sat 7am - 12amSun 7am - 10pm,5107 York Highland Park,213-995-6191
+venue food,Upstairs at Ace Hotel Downtown LA,Mon-Sun: 11am - 2am,933 S Broadway Downtown,213-623-3233
+venue city,EVERYBODY,Mon-Fri:  6am-8pmSat & Sun: 7am-6pm,1845 N San Fernando Cypress Park,(323) 352-8618
+venue city,The O.J. Tour,By Appointment,Brentwood Brentwood,(310) 614-4163
+venue city,Skirball Cultural Center,Mon ClosedTue-Fri	12pm - 5pmSat & Sun 10am - 5pm,2701 N Sepulveda Brentwood,(310) 440-4500
+venue city,La Brea Tar Pits & Museum,Mon-Sun: 9:30am-5pm,5801 Wilshire Mid-Wilshire,(213) 763-3499
+venue city,Natural History Museum,Mon -Sun 9:30am - 5pm,900 Exposition Blvd Exposition Park,(213) 763-3466
+venue city,Clockshop,Hours Vary,2806 Clearwater Frogtown,323-522-6014
+venue city,LA Beer Hop,Hours Vary,Locations Vary The Internet,323-928-2113
+venue art,The Main Museum,Wed-Sun: 12pm - 7 pm,114 W 4th Downtown,(213) 986-8500
+venue art,Women's Center for Creative Work,Mon -Fri: 10am -6pm,2425 Glover Place Frogtown,(323) 739 - 8847
+venue art,The Autry,Tues - Fri: 10am - 4pmSat & Sun: 10am - 5pm,4700 Western Heritage Way Griffith Park,(323) 667-2000
+venue art,LACMA,Mon and  Tues and  Thurs: 11 am - 5 pmFriday: 11 am -8 pmSaturday & Sunday: 10 am -7 pm,5905 Wilshire Mid-Wilshire,(323) 857-6010
+venue art,Artist & Craftsman Supply,Mon -Sat 9am -7pmSun 11am - 6pm,1921 E 7th St Arts District,213-955-9055
+venue art,Craft & Folk Art Museum,Tue - Fri 11am - 5pmSat & Sun 12 - 6pm,5814 Wilshire Mid-Wilshire,323-937-4230
+venue art,The Posters Co.,24 Hrs,Los Angeles The Internet,
+venue art,Geffen Playhouse,Hours Vary,10886 Le Conte Westwood,310-208-5454
+venue art,MOCA,Mon & Weds: 11am-6pmThursday: 11am-8pmFriday: 11am-6pmSat & Sun: 11am-5pm,250 S Grand Downtown,213-626-6222
+venue art,The Hammer Store,Tue - Fri 11am - 8pmSat & Sun 11am - 5pm,10899 Wilshire Westwood,310-443-7000
+venue art,Cinefamily,Daily Showings,611 N Fairfax Beverly Grove,323-655-2510
+venue art,Otherwild,Mon - Sat 12pm-7pmSun 11pm - 6pm,1768 N Vermont Los Feliz,323-546-8437
+venue art,Poketo,Mon - Wed 12pm - 7pmThurs - Sun 11am - 7pm,820 E 3rd Arts District,213-537-0751
+venue music,Audio for All,,Los Angeles The Internet,(213) 260-2357
+venue music,Bring The Noise,,5905 Wilshire Mid-Wilshire,(323) 857-6010
+venue music,The Hi Hat,Mon - Sun 7pm-2am,5043 York Highland Park,(323) 258-4427
+venue music,Perfect Circuit Audio,Mon - Fri 10am - 7pmSat 12pm - 6pm,2405 W Empire Burbank,(818) 709-1727
+venue music,Perpetual Dawn,Monthly and  9:30pm - 6am,RSVP for Address Chinatown,
+venue wildcard,WORSHIP,Mon -Fri: 12 pm -8 pm,1104 Mohawk St Echo Park,(213) 352-4155
+venue wildcard,MYKITA,Mon - Sat: 11am - 7pmSunday: 12pm - 6pm,847 S Broadway Downtown,(213) 335 - 5815
+venue wildcard,Joymode,http://joymode.com/club5,Los Angeles The Internet,
+venue wildcard,Museo,Mon-Weds: By AppointmentThu-Sat: 12pm-8pmSunday: 12pm-5pm,2516 W Sunset Silver Lake,(323) 673-0133
+venue wildcard,Garrett Leight California Optical,Mon - Sun 11am-7pm,165 S La Brea Fairfax,(323) 931-4018
+venue wildcard,Collection,Weds-Fri 12pm-7pmSat 12pm-6pmSun 12pm-5pm,1282 W Sunset Echo Park,(213) 640-2572
+venue wildcard,Time Travel Mart,Mon-Sun 12pm-6pm,1714 W Sunset Echo Park,(213) 413-3388
+venue wildcard,East/West Shop,Wed - Sat 12pm - 8pm,727 N Broadway #115 Chinatown,
+venue wildcard,Organic Kind,Mon 12am - 8pmTues - Sat 11am - 10pmSun 12pm - 8pm,NE Los Angeles The Internet,323-574-0248
+venue wildcard,Pacific Tote Company,Thurs & Fri 10am - 5pmSat & Sun 11am - 5pm,1829 W Sunset Echo Park,
+venue wildcard,Virgil Normal,Tue - Sat 11am - 7pm,4157 Normal East Hollywood,323-741-8489
+venue wildcard,Meltdown Comics,Mon & Tue 11am - 9pmWed 11am - 10pmWed - Sun 11am - 9pm,7522 Sunset West Hollywood,323-851-7223
+venue wildcard,Myrtle,Tue - Sat 11am - 7pmSun 12pm - 6pm,2213 Sunset Echo Park,213-413-0004
+venue wildcard,Face Haus,Mon - Sat 10am - 8pmSun 10am - 6pm,8377 W 3rd West Hollywood,855-550-4287
+venue wildcard,Southpaw,Mon & Tue 11am - 8pmWed 1pm - 8pmThurs & Fri 10am - 7pmSat & Sun 9am - 6pm,2522 Hyperion Silver Lake,323-230-9966
+venue wildcard,The Establishment,Mon - Wed 11am -8pmThurs & Fri 10am -7pmSat & Sun 9am -6pm,2894 Rowena Silver Lake,323-230-6100
+venue wildcard,The New California Barber,Mon - Sat 11am - 7pmSun 11am - 5pm,2203 W Sunset Silver Lake,213-568-3667
