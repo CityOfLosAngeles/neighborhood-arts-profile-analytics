@@ -1,5 +1,4 @@
-Recommended Events
-Event_Name, Location, Price
+Recommended_Event_Name, Location, Price
 L.A. Opera's Nabucco,7:30pm @ Dorothy Chandler Pavilion,$25-$350
 Katy Perry,7:00pm @ Staples Center,$50.50-$200.50
 Hollywood in Havana: Five Decades of Cuban Posters...,12:00pm @ Pasadena Museum of California Art,$7  $5 students and seniors  children 12 and under free
@@ -12,10 +11,7 @@ Becoming Los Angeles,All Day @ Natural History Museum of Los Angeles County,
 Tree of Testimony: L.A. Museum of the Holocaust,10:00am @ Los Angeles Museum of the Holocaust,Free
 Henry Taylor at the Line Hotel,All Day @ The Line Hotel,Free
 Patricia Fernandez's Point of Departure: Five Walks,12:00pm @ Commonwealth & Council,Free
-
-
-Other Events
-Event_Name, Location, Price
+Other_Event_Name, Location, Price
 Cassandra Wilson  Liam Ó Maonlaí,8:00pm @ Largo at the Coronet,$40
 Marty & Elayne,9:00pm @ The Dresden Restaurant,Free
 Rex Merriweather,8:00pm @ Las Hadas,Free

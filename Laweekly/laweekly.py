@@ -28,9 +28,9 @@ event_container = page_soup.findAll("li", {"class":"recommended"})
 filename = "laweekly " + calendar(date_year, date_month, date_day) + ".csv"
 f = open(filename, "w")
 
-headers = "Event_Name, Location, Price\n"
+headers = "Recommended_Event_Name, Location, Price\n"
 
-f.write("Recommended Events\n")
+"""f.write("Recommended Events\n")"""
 f.write(headers)
 
 for container in event_container:
@@ -53,8 +53,8 @@ for container in event_container:
 
 daily = page_soup.findAll("div", {"class":"result-day"})
 
-f.write("\n\nOther Events\n")
-f.write(headers)
+"""f.write("\n\nOther Events\n")"""
+f.write("Other_Event_Name, Location, Price\n")
 
 for other in daily[1].ul.findAll("li"):
 
@@ -72,7 +72,7 @@ for other in daily[1].ul.findAll("li"):
 			price = other.find("div", {"class": "tix"}).text.strip()
 			#print (price)
 
-		f.write(title.text.strip().replace(",", " ").replace("\xe1", "?").replace("\xae", "?").replace("\xe9", "?").replace("’" , "'") + "," + location.text.strip().replace(",", " ").replace("&commat;", "@") + "," + price.replace(",", " ") + "\n")
+		f.write(title.text.strip().replace(",", " ").replace("\xe1", "?").replace("\xae", "?").replace("\xe9", "?").replace("’" , "'").replace("\"" , "") + "," + location.text.strip().replace(",", " ").replace("&commat;", "@") + "," + price.replace(",", " ") + "\n")
 
 print("File: \"laweekly " + calendar(date_year, date_month, date_day) + ".csv\" " + "has been created")
 f.close()
