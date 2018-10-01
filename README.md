@@ -8,11 +8,11 @@ As a part of the [ Neighborhood Arts Profile](https://neighborhoodartsprofile.or
 
 Working with a DSF partner, we plan to: 
 
-1)  implement programmatic methods to extract, aggregate, and structure existing cultural activities data sources made available through events curation apps and websites including: [ DiscoverLA](https://www.discoverlosangeles.com), [ CurateLA](https://curate.la/), [ ForYourArt](http://foryourart.com/), [ The CultureList](http://theculturelist.org/), [ Sea Saw](https://itunes.apple.com/us/app/see-saw-gallery-guide/id791643418?mt=8), [ LA Weekly](https://www.laweekly.com/), [ Los Angeles Public Library Calendar](www.lapl.org/whats-on/calendar), and DCA’s events API (to be launched in October 2018); 
+1. implement programmatic methods to extract, aggregate, and structure existing cultural activities data sources made available through events curation apps and websites including: [ DiscoverLA](https://www.discoverlosangeles.com), [ CurateLA](https://curate.la/), [ ForYourArt](http://foryourart.com/), [ The CultureList](http://theculturelist.org/), [ Sea Saw](https://itunes.apple.com/us/app/see-saw-gallery-guide/id791643418?mt=8), [ LA Weekly](https://www.laweekly.com/), [ Los Angeles Public Library Calendar](www.lapl.org/whats-on/calendar), and DCA’s events API (to be launched in October 2018); 
 
 and
 
-2) create an analytic model to index events data as a means to assess cultural vibrancy across Los Angeles neighborhoods.
+2. create an analytic model to index events data as a means to assess cultural vibrancy across Los Angeles neighborhoods.
 
 ## Sponsors
 
@@ -42,11 +42,11 @@ Christine Nguyen
 
 * Provide preliminary analytic results on neighborhoods with high and low levels of cultural vibrancy based on DCA’s mission.
 
-** Access to public transit (1 mile walking distance to mass transit stop)
+  * Access to public transit (1 mile walking distance to mass transit stop)
 
-** Financial access: free and low-cost events
+  * Financial access: free and low-cost events
 
-** Access to youth: youth-specific and family-friendly events
+  * Access to youth: youth-specific and family-friendly events
 
 ## Deliverables
 
