@@ -8,7 +8,7 @@ As a part of the [ Neighborhood Arts Profile](https://neighborhoodartsprofile.or
 
 Working with a DSF partner, we plan to: 
 
-1. implement programmatic methods to extract, aggregate, and structure existing cultural activities data sources made available through events curation apps and websites including: [ DiscoverLA](https://www.discoverlosangeles.com), [ CurateLA](https://curate.la/), [ ForYourArt](http://foryourart.com/), [ The CultureList](http://theculturelist.org/), [ Sea Saw](https://itunes.apple.com/us/app/see-saw-gallery-guide/id791643418?mt=8), [ LA Weekly](https://www.laweekly.com/), [ Los Angeles Public Library Calendar](www.lapl.org/whats-on/calendar), and DCA’s events API (to be launched in October 2018); 
+1. implement programmatic methods to extract, aggregate, and structure existing cultural activities data sources made available through events curation apps and websites including: [ DiscoverLA](https://www.discoverlosangeles.com), [ CurateLA](https://curate.la/), [ ForYourArt](http://foryourart.com/), [ The CultureList](http://theculturelist.org/), [ Sea Saw](https://itunes.apple.com/us/app/see-saw-gallery-guide/id791643418?mt=8), [ LA Weekly](https://www.laweekly.com/), [ Los Angeles Public Library Calendar](www.lapl.org/whats-on/calendar), [ Eventbrite API](https://www.eventbrite.com/developer/v3/endpoints/events/#ebapi-get-events-search), and DCA’s events API (to be launched in October 2018); 
 
 and
 
@@ -59,6 +59,8 @@ Christine Nguyen
 * [DiscoverLA JSON feed](https://www.discoverlosangeles.com/feeds/events/dept-cultural-affairs/calendar)
 
 * LA Public Library JSON feed [ Kids & Teens](http://www.lapl.org/whats-on/calendar/json/ita-kids-teens); [ All ages](http://www.lapl.org/whats-on/calendar/json/ita-all-ages)
+
+* [Eventbrite API](https://www.eventbrite.com/developer/v3/endpoints/events/#ebapi-get-events-search)
 
 * DCA events JSON feed (TBA)
 
